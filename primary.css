@@ -1,0 +1,22 @@
+/* primary.css */
+
+.BlackBackground{
+	background-color: white;
+}
+nav{
+	text-decoration-style: none;
+	text-align: right;
+	text-decoration-color: #000000;
+}
+
+body {
+  background-color:white;
+  margin:auto;
+  text-align:center;
+}
+
+footer{
+	position: fixed;
+	bottom: 70px;
+	text-align: right;
+}
